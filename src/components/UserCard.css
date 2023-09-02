@@ -1,0 +1,20 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.userName {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.UserEmail {
+  color: blue;
+}
+.detailsButton{
+    border: 1px solid grey;
+    border-radius: 2rem;
+    width: 102px;
+    padding: 10px 0;
+    font-size: 1rem;
+    font-weight: 600;
+}
